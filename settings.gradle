@@ -1,0 +1,3 @@
+include ':AudioPlayer'
+include ':app'
+rootProject.name = "Audio Player"
